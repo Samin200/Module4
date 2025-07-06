@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    background-color: rgb(179, 228, 228);
+    width: 70%;
+    padding: 20px 20px;
+    border-radius: 30px;
+}
+.container img{
+    width: 100%;
+}
+.container h2, p{
+    font-size: 1.25em;
+}
+body{
+    background-color: rgb(210, 170, 121);
+}
+.container button{
+    color: red;
+    background-color: rgb(75, 66, 146);
+    cursor: pointer;
+}
